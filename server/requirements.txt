@@ -1,12 +1,8 @@
 fastapi
-uvicorn[standard]
+uvicorn
 httpx
 chromadb
 sentence-transformers
-numpy
-python-multipart
-pandas
-requests
+gunicorn
 python-dotenv
 nltk
-gunicorn
